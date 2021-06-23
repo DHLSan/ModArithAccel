@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../SoC_Barret_Reduction_Deneme.srcs/sources_1/new/modular_barret.vhd" \
+"../../../../SoC_Barret_Reduction_Deneme.srcs/sim_1/new/barret_test.vhd" \
+
+# Do not sort compile order
+nosort
