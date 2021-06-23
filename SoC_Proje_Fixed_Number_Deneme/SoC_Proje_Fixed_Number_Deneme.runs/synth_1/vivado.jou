@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun May 23 22:12:52 2021
+# Process ID: 19596
+# Current directory: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.runs/synth_1
+# Command line: vivado.exe -log fixed_number_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fixed_number_1.tcl
+# Log file: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.runs/synth_1/fixed_number_1.vds
+# Journal file: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fixed_number_1.tcl -notrace

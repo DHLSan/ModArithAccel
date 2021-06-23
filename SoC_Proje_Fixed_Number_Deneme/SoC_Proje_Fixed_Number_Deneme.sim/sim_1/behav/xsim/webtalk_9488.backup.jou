@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun May 23 22:15:04 2021
+# Process ID: 9488
+# Current directory: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.sim/sim_1/behav/xsim/xsim.dir/fixed_number_64bit_tb_1_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.sim/sim_1/behav/xsim/xsim.dir/fixed_number_64bit_tb_1_behav/webtalk/xsim_webtalk.tcl -notrace
