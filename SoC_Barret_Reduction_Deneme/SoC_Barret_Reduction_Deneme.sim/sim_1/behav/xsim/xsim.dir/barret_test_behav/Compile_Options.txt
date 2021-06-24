@@ -1,1 +1,0 @@
--wto "9751ad25069e4a18bb9172e74f5ce4bf" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "barret_test_behav" "xil_defaultlib.barret_test" -log "elaborate.log" 
