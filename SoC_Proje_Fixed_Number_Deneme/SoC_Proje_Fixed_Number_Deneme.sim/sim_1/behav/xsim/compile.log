@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.srcs/sources_1/new/fixed_number_1.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity fixed_number_1
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/EEM464/2014_4_zynq_labs/SoC_Proje_Fixed_Number_Deneme/SoC_Proje_Fixed_Number_Deneme.srcs/sim_1/new/fixed_number_64bit_tb_1.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity fixed_number_64bit_tb_1
