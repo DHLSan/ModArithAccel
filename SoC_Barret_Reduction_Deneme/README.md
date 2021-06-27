@@ -1,1 +1,0 @@
-# Barret Reduction Testing Files
