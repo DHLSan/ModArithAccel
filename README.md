@@ -15,7 +15,7 @@ Youtube link of Video: https://youtu.be/hIh0c6ANM2E
 
 
 İsmail Alperen AYTEKIN (i.alp.ayt@hotmail.com)
-İbrahim TOPALOGLU (ibrahimttopaloglu@gmail.com)
+İbrahim TOPALOGLU (ibrahimttopaloglu@gmail.com) 
 
 
 ModArithAccel
